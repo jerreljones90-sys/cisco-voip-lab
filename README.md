@@ -1,5 +1,8 @@
 # Cisco VoIP Enterprise Lab
 
+#Network Topology#
+Document name "Network Topology.PDF
+
 ##Project Overview##
 
 This project documents the design, deployment, and troubleshooting of a Cisco VoIP environment within my enterprise home lab. The objective is to deploy 2 Cisco IP phones with Fusion PBX and to successfully make calls to each other while using Wireshark to view packets in real time and for troubleshooting. Rather than focusing only on successful configuration, this project also documents the troubleshooting process used to identify issues with phone provisioning and SIP registration.
@@ -19,7 +22,7 @@ Cisco IP Phones
 Cisco IOS Switching 
 QOS / DSCP
 
-#Current Network  Equipment in this lab#
+##Current Network  Equipment in this lab##
 2 - Cisco 3560 -POE (24 port switches)
 1 Cisco Catalyst 3750 series- POE (24 port)
 1 Cisco Catalyst 3750 series- POE (48 port)
