@@ -1,5 +1,8 @@
 # Project Objective: Setup VM through Hyper-V and download FusionPBX
-(Troubleshooting notes with screenshots in Troubleshooting Notes folder) Click Here to View Troubleshooting notes> VM Setup for Linux/Troubleshooting Notes/VM Setup  New subnet setup - Troubleshooting .pdf
+
+Click Here to View Troubleshooting notes> [
+](https://github.com/jerreljones90-sys/cisco-voip-lab/blob/0fa7799d140bb75941dca52ffedfd4aa82a92dac/VM%20Setup%20for%20Linux/Troubleshooting%20Notes/VM%20Setup%20%20New%20subnet%20setup%20-%20Troubleshooting%20.pdf)
+
 # Description:
 Create a virtual machine using Microsoft Hyper-V with the recommended hardware and network settings to install Debian 12 and successfully deploy FusionPBX. 
 FusionPBX will serve as the VoIP call-control/PBX platform used to register and provide calling services for Cisco IP phones.
